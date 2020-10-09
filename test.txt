@@ -1,0 +1,4 @@
+esto es una prueba de git
+uso de plataforma local
+nada de github
+por ahora
